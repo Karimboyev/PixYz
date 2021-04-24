@@ -302,6 +302,7 @@ export default {
             width: 93%;
             border-radius: 15px;
             position: relative;
+            box-shadow: 3px 3px 40px 0 rgb(126 126 126 / 10%);
             @media (min-width:1441px){
                 width: 424px;
                 height: 384px;
